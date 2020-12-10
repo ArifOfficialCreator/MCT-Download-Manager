@@ -1,0 +1,33 @@
+2009 (20H2)
+https://download.microsoft.com/download/4/c/c/4cc6c15c-75a5-4d1b-a3fe-140a5e09c9ff/MediaCreationTool20H2.exe
+
+2004 (20H1)
+https://software-download.microsoft.com/download/pr/MediaCreationTool2004.exe
+
+1909
+https://software-download.microsoft.com/download/pr/MediaCreationTool1909.exe
+
+1903
+https://software-download.microsoft.com/download/pr/MediaCreationTool1903.exe
+
+1809
+https://software-download.microsoft.com/download/pr/MediaCreationTool1809.exe
+
+1803
+https://software-download.microsoft.com/download/pr/MediaCreationTool1803.exe
+
+1709
+https://download.microsoft.com/download/A/B/E/ABEE70FE-7DE8-472A-8893-5F69947DE0B1/MediaCreationTool.exe
+
+1703
+http://download.microsoft.com/download/1/F/E/1FE453BE-89E0-4B6D-8FF8-35B8FA35EC3F/MediaCreationTool.exe
+
+1607
+http://download.microsoft.com/download/C/F/9/CF9862F9-3D22-4811-99E7-68CE3327DAE6/MediaCreationTool.exe
+
+1511
+http://download.microsoft.com/download/1/C/4/1C41BC6B-F8AB-403B-B04E-C96ED6047488/MediaCreationTool.exe
+
+1507
+(32-Bit) http://download.microsoft.com/download/1/C/8/1C8BAF5C-9B7E-44FB-A90A-F58590B5DF7B/v2.0/MediaCreationTool.exe
+(64-Bit) http://download.microsoft.com/download/1/C/8/1C8BAF5C-9B7E-44FB-A90A-F58590B5DF7B/v2.0/MediaCreationToolx64.exe
